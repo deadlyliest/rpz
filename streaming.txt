@@ -27,6 +27,8 @@ hbomax.com
 www.hbomax.com
 api.hbomax.com
 cdn.hbomax.com
+play.max.com
+max.com
 
 hulu.com
 www.hulu.com
