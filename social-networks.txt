@@ -29,6 +29,10 @@ www.snapchat.com
 scdn.co
 snapchatcdn.com
 
+bing.com
+www.bing.com
+cdn.bing.com
+
 pinterest.com
 www.pinterest.com
 pinimg.com
