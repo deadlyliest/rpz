@@ -16,6 +16,11 @@ twimg.com
 x.com
 www.x.com
 
+kwai.com
+www.kwai.com
+abs.kwai.com
+ads.kwai.com
+
 threads.net
 www.threads.net
 
