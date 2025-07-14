@@ -5,6 +5,12 @@ tiktokcdn.com
 tiktokv.com
 tiktokd.org
 
+facebook.com
+www.facebook.com
+
+instagram.com
+www.instagram.com
+
 twitter.com
 www.twitter.com
 mobile.twitter.com
